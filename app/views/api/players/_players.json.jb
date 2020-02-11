@@ -1,0 +1,6 @@
+{
+  id: player.id,
+  name: player.name,
+  number: player.number,
+  team_id: player.team_id
+}
